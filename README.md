@@ -1,3 +1,6 @@
+
+[DEPRECATED, CLICK ME TO GO TO THE NEW REPO](https://github.com/idekerlab/diffusiond)
+
 Diffusiond
 ==========
 Provides a daemon capable of servicing heat diffusion tasks on networks provided as cx or stored in NDEx.  For details see the manuscript "Network propagation in the Cytoscape Cyberinfrastructure. Carlin DE et al. Submitted to PLoS Computational Biology."
