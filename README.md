@@ -28,4 +28,4 @@ Parameters
 | kernel        | Boolean      | False               | Should the diffuser calculate an intermediate kernel               |
 | heatvector    | List or Dict | None                | Node heats encoded in the query string, overrides CX encoded heats |
 | heatattribute | String       | 'diffusion_input'   | The node attribute that contains the initial node heat as a Double |
-| normalize     | Boolean      | False               | Should the Lappachian matrix be normalized                         |
+| normalize     | Boolean      | False               | Should the Laplacian matrix be normalized                         |
