@@ -1,5 +1,5 @@
 
-[DEPRECATED, CLICK ME TO GO TO THE NEW REPO](https://github.com/idekerlab/diffusiond)
+[DEPRECATED, CLICK ME TO GO TO THE NEW REPO](https://github.com/idekerlab/heat-diffusion)
 
 Diffusiond
 ==========
